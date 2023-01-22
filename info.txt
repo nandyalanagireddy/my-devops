@@ -9,4 +9,9 @@ load, aim, shoot
 today is my day
 >>>>>>> refs/remotes/origin/main
 very good afternoon
+<<<<<<< HEAD
 good morinng mama & i love you mama
+=======
+very goog morning mama & love you mama
+i love banglore and banglore weather 
+>>>>>>> bheem
